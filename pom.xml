@@ -97,11 +97,11 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <propertyFile>src/main/resources/liquibase.properties</propertyFile>
+                    <propertyFile>src/main//java/resources/liquibase.properties</propertyFile>
                 </configuration>
             </plugin>
             <!--                     -->
-            
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
