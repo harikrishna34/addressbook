@@ -97,7 +97,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <propertyFile>src/main//java/resources/liquibase.properties</propertyFile>
+                    <propertyFile>src/main/java/resources/liquibase.properties</propertyFile>
                 </configuration>
             </plugin>
             <!--                     -->
